@@ -271,6 +271,8 @@ I highly recommend this course <br/>
 <a href="https://www.youtube.com/playlist?list=PLu-l3j4eka07-3vgrH_XylHtYA0uNdjQC">Programming Paradigms - Chapter 8 - Prolog</a> <br/>
 <a href="https://www.youtube.com/playlist?list=PLu-l3j4eka076vqI_CNbleaYge3P5JQ0m">Programming Paradigms - Chapter 9 - Prolog Recursion</a>
 
+cool math video : https://youtu.be/EVwQsvof7Hw?si=wLYos_zdWe7TuCvr
+
 ---------------------------------------------------------------------------------------------------
 
 ## BFS, IDS, Uniform-Cost and A*
