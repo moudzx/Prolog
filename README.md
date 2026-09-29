@@ -327,6 +327,7 @@ Solving Constraint Satisfaction Problems (CSPs)<br>
 <br>
 <br>
 https://stackoverflow.com/questions/36235348/prolog-and-limitations-of-backtracking
+
 ---------------------------------------------------------------------------------------------------
 
 <code> graph_search.pl </code> <br>
@@ -343,8 +344,20 @@ https://stackoverflow.com/questions/36235348/prolog-and-limitations-of-backtrack
 <img width="830" height="694" alt="chess1b" src="https://github.com/user-attachments/assets/df7b4bdd-0c8e-4161-815f-b9c5e043f84b" /> <br>
 https://stoics.org.uk/~nicos/sware/chess_db/ <br>
  <br>
+ 
 ------------------------------------------------------------------------------------------
+
 Run Prolog online:
 https://swish.swi-prolog.org/
+
 -------------------------------------------------------------------------------------------
-creep.
+## Animation
+
+[animation](https://moudzx.github.io/prolog) <br/>
+Open it in browser, it animates the six algorithms from
+<code>graph_search.pl</code> (DFS, BFS, IDS, UCS, A*, Greedy) step by step:
+visited nodes, backtracking, the frontier and the final path.
+The edge order, costs and heuristics mirror the Prolog facts.
+Note: <code>direct_goal</code> has no edge to <code>goal</code>, so it is a dead end.
+
+-- creep.
